@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: sparrow-config-client
+    
+group1:  
+  property1: defaultConfigPropertyValue1
+  property2: defaultConfigPropertyValue2
+  
+group2:  
+  property1: defaultConfigPropertyValue1
+  property2: defaultConfigPropertyValue2
